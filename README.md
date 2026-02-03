@@ -1,3 +1,5 @@
+<img width="300" height="300" alt="ChatGPT Image 16 янв  2026 г , 03_33_12" src="https://github.com/user-attachments/assets/4452b6b8-c738-4728-b5ad-d6782ee72000" />
+
 # English
 A multilingual article explaining what Open Source is. All accepted forks and contributions will be published as updates to the Open Source entry in the IT History Journal.
 
