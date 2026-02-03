@@ -5,6 +5,11 @@ A multilingual article explaining what Open Source is. All accepted forks and co
 # Русский
 Мультиязычная статья про то, что такое опенсорс. Все принятые PRы будут публиковаться, как обновление материала про Open Source в IT History Journal.
 
+IT History Journal - это ежедневные дайджесты и разный контент про события в истории ИТ.
+[Patreon](https://patreon.com/cw/kalashnikovisme)
+[Boosty](https://boosty.co/kalashnikovisme)
+[Ko-fi](https://ko-fi.com/kalashnikovisme)
+
 # Español
 Artículo multilingüe sobre el Open Source.
 Todos los PRs aceptados y los textos se publicarán como actualizaciones del material sobre Open Source en IT History Journal.
